@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt=br">
+<head>
+    <meta charset="UTF-8">
+    <title>Página Principal</title>
+</head>
+<body>
+
+    <center><h1 id="inicio">Progresso em Formação de HTML Developer</h1></center>
+    <hr />
+    <blockquote>“É no problema da educação que assenta o grande segredo do aperfeiçoamento da humanidade.” </blockquote>
+    <small><blockquote>Kant, Imannuel</blockquote></small>
+    <h2>Indice</h2>
+    <ul>
+        <li><a href="#sobre">Sobre a Linguagem</li>
+        <li><a href="#hiperlink">O que são HiperLinks?</a></li>
+        <li><a href="#tagss">O que são Tags?</a></li>
+        <li><a href="#ref">Referências <a/></li>
+    </ul>
+    <hr/>
+    <h2 id="sobre">Sobre a Linguagem</h2>
+    <small><a href="#inicio">(Voltar)</a></small>
+    <p>HTML é a linguagem que dá forma e estrutura às páginas da web. Ela permite a criação de conteúdo textual e visual, possibilitando a exibição de textos, imagens e links. Com HTML, os desenvolvedores podem organizar informações em diferentes seções e definir como elas são apresentadas ao usuário. <mark>É uma linguagem essencial para construir websites e aplicativos web</mark>, tornando a internet acessível e interativa. Através de códigos simples, HTML transforma ideias em páginas navegáveis, conectando pessoas ao redor do mundo. Seu uso é fundamental para a construção de uma presença online eficaz e agradável.</p>
+    <p>Abreviação de HyperText Markup Language, é a espinha dorsal da web. Ele define a estrutura semântica das páginas, permitindo que os navegadores interpretem e exibam o conteúdo de maneira consistente. Ao utilizar HTML, os desenvolvedores podem criar uma experiência de usuário coesa, tornando a navegação intuitiva e eficiente. É uma linguagem universal que desempenha um papel crucial na comunicação e compartilhamento de informações na era digital.</p>
+
+    <h2 id="hiperlink">O que são HiperLinks?</h2>
+    <small><a href="#inicio">(Voltar)</a></small>
+    <p><strong>Hiperlinks</strong>, também conhecidos como links, são elementos interativos em um artigo de blog que permitem aos leitores acessar rapidamente outras páginas da web relacionadas. Eles são geralmente texto ou imagens destacados e clicáveis, e sua principal função é criar conexões entre diferentes recursos online. Quando um leitor clica em um hyperlink, ele é redirecionado para outra página da web, seja dentro do mesmo site ou para uma fonte externa.</p>
+    <p>Esses links desempenham um papel fundamental na experiência de navegação na internet, permitindo que os leitores explorem tópicos relacionados, aprofundem seu entendimento ou obtenham informações adicionais. Além disso, os hiperlinks são uma maneira eficaz de direcionar o tráfego para outras partes do seu próprio blog ou para sites externos, o que pode ser útil para fins de referência, pesquisa ou compartilhamento de recursos valiosos. Portanto, ao escrever um artigo de blog, a inclusão estratégica de hiperlinks pode melhorar significativamente a usabilidade e a utilidade do conteúdo para os leitores.</p>
+
+    <h2 id="tagss">O que são Tags?</h2>
+    <small><a href="#inicio">(Voltar)</a></small>
+    <p><strong>Tags</strong> são instruções especiais usadas em linguagens de marcação para descrever elementos ou partes específicas de um documento ou conteúdo digital. Elas são geralmente inseridas entre colchetes angulares (<>) e podem incluir atributos para fornecer informações adicionais sobre esses elementos. As tags são usadas para estruturar, formatar e organizar o conteúdo, permitindo que os navegadores da web e outros sistemas interpretem e exibam o conteúdo de acordo com as diretrizes fornecidas pelas tags. Em essência, as tags são rótulos que dizem ao software como processar e apresentar o conteúdo de um documento.</p>
+
+    <h2 id="ref">Referências</h2>
+    <small><a href="#inicio">(Voltar)</a></small>
+    <p><u><a href="https://html.com/" target="_blank">Site HTML</a></u></p>
+    <p><u><a href="https://www.w3schools.com/html/"target="_blank">W3Schools</a></u></p>
+    <p><u><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank">Mozilla Developer Network (MDN) - HTML Basics</a></u></p>
+
+</body>
+</html>
